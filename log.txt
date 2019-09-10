@@ -1,0 +1,36 @@
+Error Occured while Creating Book : Name should be letters only 9/10/2019 3:50:38 PM
+Error Occured while Creating Book : Invalid Id, Id should be a positive number 9/10/2019 3:50:56 PM
+Error Occured while Creating Book : AuthorName should be letters only 9/10/2019 3:51:02 PM
+Created : BookApi.Entities.Book Added Successfully 9/10/2019 3:51:07 PM
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Error Occured while Creating Book : Invalid Id, Id should be a positive number 9/10/2019 4:05:07 PM
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Created : BookApi.Entities.Book Added Successfully 9/10/2019 4:05:13 PM
+Microsoft.AspNetCore.Http.DefaultHttpContext
+Error Occured while Creating Book : Category should be letters only 9/10/2019 4:20:44 PM
+Error Occured while Creating Book : AuthorName should be letters only 9/10/2019 4:20:44 PM
+Error Occured while Creating Book : Name should be letters only 9/10/2019 4:20:44 PM
+Created : BookApi.Entities.Book Added Successfully 9/10/2019 4:20:44 PM
+Error Occured while Getting Book : InValid Id Should Be Positive 9/10/2019 4:20:44 PM
+GET
+GET
+POST
+Error Occured while Creating Book : Invalid Id, Id should be a positive number 9/10/2019 4:21:31 PM
+POST
+POST
+Created : BookApi.Entities.Book Added Successfully 9/10/2019 4:21:35 PM
+POST
+GET Geting the details at 9/10/2019 4:26:20 PM
+Operations Done and Redirect Successfully
+POST Trying to create .. 9/10/2019 4:26:36 PM
+Created : BookApi.Entities.Book Added Successfully 9/10/2019 4:26:36 PM
+Operations Done and Redirect Successfully
+GET Geting the details at 9/10/2019 4:26:40 PM
+Operations Done and Redirect Successfully
+PUT Trying to Update .. 9/10/2019 4:26:43 PM
+Operations Done and Redirect Successfully
+DELETE Trying to Delete .. 9/10/2019 4:26:49 PM
+Operations Done and Redirect Successfully

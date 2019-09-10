@@ -1,0 +1,17 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.Tests.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.Tests.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.Tests.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.Tests.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\bin\Debug\netcoreapp2.1\BookApi.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.csproj.CopyComplete
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookApi\BookApi.Tests\obj\Debug\netcoreapp2.1\BookApi.Tests.pdb
